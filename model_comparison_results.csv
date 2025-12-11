@@ -1,0 +1,5 @@
+Model,Accuracy,Precision,Recall,Specificity,F1-Score,AUC
+RandomForest,0.9679,0.9746,0.9609,0.975,0.9677,0.9947
+DecisionTree,0.9679,0.9662,0.9698,0.9661,0.968,0.9679
+LogisticRegression,0.8533,0.934,0.7602,0.9463,0.8382,0.8419
+GradientBoosting,0.9682,0.9711,0.9651,0.9713,0.9681,0.9953

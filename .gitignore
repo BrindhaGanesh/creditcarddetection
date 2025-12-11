@@ -1,0 +1,15 @@
+# virtual env
+carddetectionenv/
+
+# python cache
+__pycache__/
+*.pyc
+
+# environment variables and keys
+.env
+
+# data (keep only sample or README if needed)
+data/
+
+# notebooks checkpoints
+.ipynb_checkpoints/
